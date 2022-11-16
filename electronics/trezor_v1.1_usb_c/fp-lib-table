@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name trezor_v1.1)(type KiCad)(uri "$(KIPRJMOD)/trezor_v1.1.pretty")(options "")(descr ""))
+  (lib (name "trezor_v1.1")(type "KiCad")(uri "$(KIPRJMOD)/trezor_v1.1.pretty")(options "")(descr ""))
+  (lib (name "Gigahawk")(type "KiCad")(uri "${KIPRJMOD}/Gigahawk.pretty")(options "")(descr ""))
 )
