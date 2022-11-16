@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name trezor_v1.1-eagle-import)(type Legacy)(uri ${KIPRJMOD}/trezor_v1.1-eagle-import.lib)(options "")(descr ""))
+  (lib (name "trezor_v1.1-eagle-import")(type "Legacy")(uri "${KIPRJMOD}/trezor_v1.1-eagle-import.lib")(options "")(descr ""))
+  (lib (name "trezor_v1.1-rescue")(type "Legacy")(uri "${KIPRJMOD}/trezor_v1.1-rescue.lib")(options "")(descr ""))
 )
